@@ -1,0 +1,11 @@
+User-agent:*
+Allow: /
+Disallow: /47_11_574_45
+Disallow: /46_234_98
+Disallow: /35_0875_875
+Disallow: /33_96425_09
+Disallow: /?C=M;O=A
+Disallow: /cgi-sys/suspendedpage.cgi
+Disallow: /cgi-sys*
+sitemap: http://sigaretioptomvrossii.ru/sitemap.xml
+Host: http://sigaretioptomvrossii.ru

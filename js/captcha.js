@@ -1,0 +1,1 @@
+document.write('<p><input type="text" name="captcha" class="captcha required" placeholder="' + window.dig1 + '+'+ window.dig2 + '="></p>');
